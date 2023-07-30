@@ -1,0 +1,23 @@
+.left{
+	float: left;
+	border:solid 0px;
+	width: 10%;
+	height:100%;
+	
+	
+	
+}
+.content{
+	
+	border: solid 2px;
+	width: 80%;
+	height:100%;
+	margin-left: 10%;
+
+}
+.right{
+	float: right;
+}
+.hi{
+	margin-left: 50px;
+}

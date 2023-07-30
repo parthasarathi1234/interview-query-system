@@ -1,0 +1,50 @@
+.two img{
+	float: left;
+	height: 30%;
+	width: 30%;
+	margin: 20px;
+	margin-left: 80px;
+
+
+}
+.two{
+	background:  #b3ccff;
+	/*height: 100%;*/
+	height: 600px;
+	width: 100%;
+	
+	 	
+}
+.myform{
+	width: 400px;
+	margin: 0 auto;
+}
+.login{
+	background: red;
+	float: right;
+	height: 400px;
+	margin-right: 80px;
+	border: 0px solid;
+	padding: 20px;
+	margin-top: 40px;
+
+	
+}
+#login_btn{
+	margin-top: 10px;
+	background-color: #66ff66;
+	padding: 5px;
+	color: white;
+	width: 60%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+.header{
+	color: blue;
+}
+.input{
+	width:200px;
+	margin: 0 auto;
+	padding: 5px;
+}
